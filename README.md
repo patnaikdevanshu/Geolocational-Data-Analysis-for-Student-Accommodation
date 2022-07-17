@@ -2,7 +2,7 @@
 Exploratory Analysis of Geolocational Data
 This project involves the use of K-Means Clustering to find the best accommodation for students in KIIT University by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
 ## Workflow
-![image](https://user-images.githubusercontent.com/71730642/179419251-5948ee9c-0189-4fdc-be30-fee7975613b9.png)
+![image](https://user-images.githubusercontent.com/71730642/179422132-76f0e3da-715d-4d4a-b003-c3eceecec3e0.png)
 
 - The food_choices file from this link is used as data-set to differentiate among students.
 - Suitable parameters are chosen to perform data cleaning. The cleaned data is visualized using Box-plots.
@@ -19,7 +19,7 @@ Useful parameters are selected an data cleaning is performed on this data. This 
 ![image](https://user-images.githubusercontent.com/71730642/179419215-d8a14426-6ed8-4e56-9c3a-5d809eddb66a.png)
 
 - Using Folium, the above clustered data is plotted on map
-<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:52%;position:relative;"><iframe width="500" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6n27fb"></iframe></div><p><a href="https://imgflip.com/gif/6n27fb">via Imgflip</a></p></div>
+![gif](https://imgflip.com/gif/6n27fb)
 
 ![image](https://user-images.githubusercontent.com/71730642/179419247-24c2b312-748e-4afa-86bc-8abd9f3944a9.png)
 
