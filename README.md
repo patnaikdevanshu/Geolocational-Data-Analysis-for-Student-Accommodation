@@ -22,8 +22,7 @@ Useful parameters are selected an data cleaning is performed on this data. This 
 
 - Using Folium, the above clustered data is plotted on map
 
-![map gif](https://github.com/patnaikdevanshu/Geolocational-Data-Analysis-for-Student-Accommodation/blob/main/data/map_kiit.gif)
-
+<!--![map gif](https://github.com/patnaikdevanshu/Geolocational-Data-Analysis-for-Student-Accommodation/blob/main/data/map_kiit.gif)-->
 ![image](https://user-images.githubusercontent.com/71730642/179419247-24c2b312-748e-4afa-86bc-8abd9f3944a9.png)
 
 ## By Observation
